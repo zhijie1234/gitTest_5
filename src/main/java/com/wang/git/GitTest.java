@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("this is a git-test");
         System.out.println("this is a git-test");
         System.out.println("this is a git-test");
+        System.out.println("hot-fix commit_test");
     }
 }
